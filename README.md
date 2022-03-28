@@ -1,79 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+TOXIC-ALEXA;THIS+BOT+MADE+BY+TURBO+%26+JIFI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+Bomb_Bot;THIS+BOT+MADE+BY+Ricky+%26+JIFI)](https://git.io/typing-svg)
 <div align="center">
         <img src="https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="Toxic-Alexa" src="https://img.shields.io/badge/Toxic-Alexa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Bomb_Bot" src="https://img.shields.io/badge/Bomb_Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TOXICTURBO">Turbo-Jifi</a> to make it public
+Project created by <a href="https://github.com/Asura-vethalam">4𝕾𝖀𝕽4 𝖁3𝕿𝕳4𝕷4𝕸</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TOXICTURBO/Toxic-Alexa&title=Toxic-Alexa%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Asura-vethalam/Bomb_Bot&title=Bomb_Bot%20Views)
 
 ## Setup
 <div align="center">
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Asura-vethalam/Bomb_Bot?v=1)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Asura-vethalam/Bomb_Bot) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
-$ cd Toxic-Alexa
+$ git clone https://github.com/Asura-vethalam/Bomb_Bot
+$ cd Bomb_Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node toxic-alexa.js
+$ node Bomb_Bot.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
-$ cd Toxic-Alexa
+$ git clone https://github.com/Asura-vethalam/Bomb_Bot
+$ cd Bomb_Bot
 $ npm i
-$ node toxic-alexa.js
+$ node Bomb_Bot.js
 ```
 
 ----
 
   <p align="center">
-  <a href="https://github.com/TOXICTURBO/Toxic-Alexa">
+  <a href="https://github.com/Asura-vethalam/Bomb_Bot">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/TOXICTURBO?color=blue&style=flat-square"></a>
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TOXICTURBO/Toxic-Alexa?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOXICTURBO/Toxic-Alexa?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/Asura-vethalam/Bomb_Bot/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Asura-vethalam?color=blue&style=flat-square"></a>
+<a href="https://github.com/Asura-vethalam/Bomb_Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Asura-vethalam/Bomb_Bot?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/Asura-vethalam/Bomb_Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Asura-vethalam/Bomb_Bot?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LhVZI1PeWCEF6cMx7CQCfW)
   <div align="center">
 
 
 Click WA logo to Join public bot Group👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LhVZI1PeWCEF6cMx7CQCfW)
   <div align="center">
 
   </div>
@@ -99,9 +99,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TOXICTURBO) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Toxic-Shadow](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
+  [![Asura-vethalam](https://github.com/Asura-vethalam.png?size=100)](https://github.com/Asura-vethalam) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Toxic-Shadow](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
 ----|----|----
-[Toxic-Turbo](https://github.com/TOXICTURBO) | [Toxic-Jifi](https://github.com/MD-JIFI) | [Toxic-Shadow](https://github.com/SPARK-SHADOW) 
+[Asura-vethalam](https://github.com/Asura-vethalam) | [Toxic-Jifi](https://github.com/MD-JIFI) | [Toxic-Shadow](https://github.com/SPARK-SHADOW) 
 Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |  Developer, Base, Bug Fixes, Modules
   </div>
     
