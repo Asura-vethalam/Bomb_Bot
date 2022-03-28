@@ -80,12 +80,12 @@ Click WA logo to Join public bot Group👇
 
 ### youtube👇
 
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://www.youtube.com/c/TurboMods)
+[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCsKsKC6ohBU5JQmpxu1fztg)
 
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/toxic_turbo777)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_MR_._G_R_O_O_V_E_)
 
 
 ### ⚠️ Warning! 
