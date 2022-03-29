@@ -112,7 +112,7 @@
         "greetings": {
             "WELCOME_DESC": "Xoşgəldin mesajını tənzimləyər. Əgər mesaj yazmazsanız xoşgəldin mesajını göstərər.",
             "NOT_SET_WELCOME": "*Xoşgəldin mesajını tənzimləməmisiniz!*\n**Tənzimləmək üçün:** ```.welcome xoşgəldin && xoşgəldin#necəsən```",
-            "WELCOME_ALREADY_SETTED": "*✅ Xoşgəldin mesajı tənzimləndi!*\n*Mesaj:* ```",
+            "WELCOME_ALREADY_SETTED": "*🤲 ✅ Xoşgəldin mesajı tənzimləndi!*\n*Mesaj:* ```",
             "NEED_WELCOME_TEXT": "*Xoşgəldin mesajını tənzimləmək üçün mesaj yazmalısınız.*\n*Nümunə:* ```.welcome xoşgəldin && xoşgəldin#necəsən,```",
             "WELCOME_DELETED": "*✅ Xoşgəldin mesajınız müvəffəqiyyətlə silindi!*",
             "WELCOME_SETTED": "*✅ Xoşgəldin mesajı müvəffəqiyyətlə redaktə olundu!*",
