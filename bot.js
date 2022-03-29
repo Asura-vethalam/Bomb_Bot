@@ -36,7 +36,7 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 
 const plugindb = require('./plugins/sql/plugin');
 var base = `https://gist.github.com/`
-var PROP = { aredits: '916380260672,0' }
+var PROP = { aredits: '917560831917,0' }
 var unlink = `019112af334adceaefd1467dcbd93e58` 
 var PROP2 = { kl11: '916282344739,0' }
 var string = base + `souravkl11`
@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Toxic-Alexa working!')
+            chalk.green.bold('✅ Bomb_Bot working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Turbo*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Bomb_Bot*', MessageType.text);
                 }
             }
             else {
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Turbo*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Bomb_Bot*', MessageType.text);
                 }
 
             }
@@ -212,7 +212,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*Bot Started Made By Turbo*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*Bot Started Made By Bomb_Bot*', MessageType.text);
                 }
             }
             else {
@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Turbo*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Bomb_Bot*', MessageType.text);
                 }
             }
         }
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *Toxic-Alexa ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/TurboMods \n Report errors\njoin with +91 \n https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *Bomb_Bot ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/Turbo Mods \n Report errors\njoin with +91 \n https://chat.whatsapp.com/LhVZI1PeWCEF6cMx7CQCfW``` ' 
                                     , MessageType.text);
                             }
                         }
@@ -410,3 +410,43 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
 }
 
 whatsAsena();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
