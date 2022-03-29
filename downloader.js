@@ -79,3 +79,4 @@ Asena.addCommand({ pattern: 'fb ?(.*)', fromMe: false, desc: FBDESC }, async (me
       )
   },
 )
+
