@@ -26,7 +26,7 @@
             "DELETED": "*✅ module delete aaki!*"
         },
         "admin": {
-            "BAN_DESC": "groupil nin arellum porth akaan. ayallude messagin reply cheyu allenkill tag cheyyu.",
+            "BAN_DESC": "groupil ninnum areyenkilum purath akkaan. ayallude messagin reply cheyu allenkill tag cheyyu.",
             "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
@@ -38,11 +38,11 @@
             "DEMOTE_DESC": "admin sthanam edth kalaayan.",
             "ALREADY_NOT_ADMIN": "```admine njan engane veendum admin aakkum?```",
             "DEMOTED": "```, ivante admin sthanam onn mateekn!```",
-            "MUTE_DESC": "group messaging admin mathram akaan.",
+            "MUTE_DESC": "group messaging admin mathram akkukayan.",
             "MUTED": "```admin only aakki!```",
-            "UNMUTE_DESC": "aarkum message ayaan, admin only allathe akkan.",
+            "UNMUTE_DESC": "aarkum message ayakkam, admin only allathe akkan pokukayan.",
             "UNMUTED": "```admin only allathe akeett und!```",
-            "INVITE_DESC": "groupilikk kshennikaan ulla linkin aayitt.",
+            "INVITE_DESC": "groupilekk kshennikaan ulla linkin aayitt.",
             "INVITE": "```kshana kath..😉: ```"
         },
         "locate": {
@@ -59,7 +59,7 @@
             "AFK_TEXT": "```ente owner ippo online illa.```",
             "AFK_TEXT_NOMD": "njan bot aan!",
             "HOUR": "manikoor",
-            "MINUTE": "minute",
+            "MINUTE": "nimisham",
             "SECOND": "second"
         },
         "evaluators": {
